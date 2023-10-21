@@ -5,7 +5,7 @@ This repository contains a data science project focused on analyzing and improvi
 
 # Project Structure
 
-Project Summary:
+Project Summary
 
 # Requirement:  
 Data from third-party sources.
@@ -17,31 +17,49 @@ Project summary with analysis and recommendations.
 # Data:
 
 external: Data from third-party sources.
+
+
 processed: The final, canonical data sets for modeling.
+
+
 raw: The original, immutable data dump.
 
 # src:
 
 Data Processing: Jupyter notebooks for data processing, data munging, and exploratory analysis.
 data_processing.ipynb
+
 data_exploratory_analysis.ipynb
+
 models: Scripts to train machine learning models and make predictions.
+
 train_model.ipynb
+
 predict_model.ipynb
+
+
 visualization: Scripts for creating exploratory and results visualizations.
+
 visualize.ipynb
+
 references: Data dictionaries, manuals, and explanatory materials.
 
 # Getting Started
-Data: Obtain the project data from INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls and place it in the appropriate data directories (external, processed, or raw) as needed.
+
+Data: Obtain the project data from INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls and place it in the appropriate data 
+directories (external, processed, or raw) as needed.
 
 Data Processing: Explore and process the data using the Jupyter notebooks provided in the src/Data Processing directory.
 
+
 Model Training: Use the scripts in the src/models directory to train machine learning models based on the processed data.
+
 
 Predictions: Run the predict_model.ipynb script to make predictions using the trained model.
 
+
 Visualization: Generate visualizations using the visualize.ipynb script.
+
 
 Summary and Recommendations: Refer to the Project Summary/Summary section for a comprehensive project summary with analysis and recommendations.
 
@@ -51,7 +69,9 @@ We welcome contributions to this project. If you have suggestions or improvement
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+
+# Acknowledgments
+
 We thank INX Future Inc for providing the data and supporting this analysis.
 The project structure was inspired by the best practices for organizing data science projects.
 
