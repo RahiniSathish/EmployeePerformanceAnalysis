@@ -1,4 +1,4 @@
-![technology-linkedin-background-dce01jsbpnn0z2ej]
+![Performance-Evaluation-FI](https://github.com/RahiniSathish/EmployeePerformanceAnalysis/assets/141403412/5aa97d48-d873-4281-873c-1200939ab787)
 
 # Employee Performance Analysis
 
