@@ -1,0 +1,62 @@
+1."Employee Performance Analysis: A Data-Driven Approach"
+
+Author:S.A. Boorman, published in the Journal of Business and Psychology 
+Published: 17 January 2001
+Reference to methodologies, statistical techniques, or frameworks used in the analysis.
+
+2."Workforce Analytics : Leveraging Data for Performance Insights"
+
+Author: Dr.S.T.Naidu, Associate Professor of Law, Nobel Institute of Management Science, Visakhapatnam
+Published: 10 January 2022
+Reference to the use of workforce analytics tools and techniques for employee performance evaluation.
+
+3."Strategic Insights from employee Performance Analytics: Enhancing Organizational Performance"
+
+Author: Mr. Hritik Kale, Dr. Dilip Aher, Dr. Nilesh Anute Institute of Business Management and Research, Chinchwad, Pun
+Published: August 2022
+Reference to strategic insights derived from employee analytics for overall organizational performance improvement.
+
+4. "Exploratory data Analysis : Performance Insights"
+
+Author:Aaronson, Daniel, Lisa Barrow, and William Sander. “Teachers and Student Achievement in the Chicago Public High Schools.”
+Published:2007
+Reference to the distributory analysis and ratings for employees.
+
+5."Predicting Employee Attrition Using Machine Learning Approaches"
+
+Author:Hafr Alabtin 31991, Saudi Arabia,College of Computer Science and Engineering, University of Hafr Al Batin
+Published:12 May 2022 
+Reference of the feature selection of employee performance analysis.
+
+6."An AI-Based Employee-Performance Classification Scheme to Rank and Identify Low Performers"
+
+Author:Department of Computer Science and Engineering, Institute of Technology, Nirma University, Ahmedabad 382481, India
+Published: Received: 8 September 2022 / Revised: 6 October 2022 / Accepted: 7 October 2022 / Published: 10 October 2022
+Reference to the model building train test and predict the performance analysis.
+
+7."Data Preprocessing for Supervised Leaning "
+
+Author:S. B. Kotsiantis, D. Kanellopoulos and P. E. Pintelas © Cambridge University Press, 2019 
+Reference from the data preprocessing technique and extract the insights.
+
+8."A Survey of Outlier Detection Techniques in IoT: Review and Classification"
+
+Author:Ismail Bennis,IRIMAS, University of Haute-Alsace, 68000 Colmar, France
+Published: 28 December 2022 
+
+9."Performance analysis of feature selection algorithm for educational data mining"
+
+Author:Maryam Zaffar Ibadat International University Manzoor Hashmani,University Teknologi PETRONAS
+Published:November 2017
+DOI:10.1109/ICBDAA.2017.8284099
+Conference: 2017 IEEE Conference on Big Data and Analytics (ICBDA)
+
+10."Random Forests technique for model prediction"
+
+Author:Amit, Y., Blanchard, G., & Wilder, K. (1999). Multiple randomized classifiers: MRCL Technical Report, Department of Statistics, University of Chicago.
+
+11."A Comprehensive Guide on Hyperparameter Tuning and its Techniques"
+
+Author:Shanthababu Pandian — Updated On October 20th, 2022
+Reference to the hyperparameter tuning to get the optimized machine learning algorithm.
+
