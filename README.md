@@ -1,4 +1,5 @@
-![Performance-Evaluation-FI](https://github.com/RahiniSathish/EmployeePerformanceAnalysis/assets/141403412/5aa97d48-d873-4281-873c-1200939ab787)
+![Screenshot 2023-10-22 193606](https://github.com/RahiniSathish/EmployeePerformanceAnalysis/assets/141403412/0455ff85-5e71-4cbe-bca6-94a744e0ed9b)
+
 
 # Employee Performance Analysis
 
