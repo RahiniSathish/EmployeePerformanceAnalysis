@@ -1,3 +1,4 @@
+![technology-linkedin-background-dce01jsbpnn0z2ej]
 
 # Employee Performance Analysis
 
