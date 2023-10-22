@@ -37,12 +37,19 @@ train_model.ipynb
 
 predict_model.ipynb
 
+references: Data dictionaries, manuals, and explanatory materials.
+
+
+
+# Visualization
+
+Visualization: Generate visualizations using the visualize.ipynb script.
+
 
 visualization: Scripts for creating exploratory and results visualizations.
 
 visualize.ipynb
 
-references: Data dictionaries, manuals, and explanatory materials.
 
 # Getting Started
 
@@ -56,9 +63,6 @@ Model Training: Use the scripts in the src/models directory to train machine lea
 
 
 Predictions: Run the predict_model.ipynb script to make predictions using the trained model.
-
-
-Visualization: Generate visualizations using the visualize.ipynb script.
 
 
 Summary and Recommendations: Refer to the Project Summary/Summary section for a comprehensive project summary with analysis and recommendations.
@@ -90,8 +94,8 @@ The project structure was inspired by the best practices for organizing data sci
 ## Task
 
 # The Goal and Insights of the project are as follows:
-### Department wise performances
-# Top 3 Important Factors effecting employee performance
+
+
    A trained model which can predict the employee performance based on factors as inputs. This will be used to hire employees Recommendations to improve the employee performance based on insights from analysis The given Employee dataset consist of 1200 rows. The features present in the data are 28 columns. The shape of the dataset is 1200x28. The 28 features are classified into quantitative and qualitative where 19 features are quantitative (11 columns consists numeric data & 8 columns consists ordinal data) and 8 features are qualitative. EmpNumber consist alphanumerical data (distinct values) which doesn't play a role as a relevant feature for performance rating.
 
 From Correlation we can get the important aspects of the data, Correlation between features and Performance Rating.Correlation is a statistical measure that expresses the extent to which two variables are linearly related.The analysis of the project has gone through the stage of Univariate,Bivariate & Multivariate analysis, correlation analysis and analysis by each department to satisfy the project goal.
@@ -123,7 +127,8 @@ Bivariate Analysis: In bivariate analysis we check the feature relationship with
 Multivariate Analysis: In multivariate Analysis check the relationship between two veriable with respect to the target veriable.
 
 # CONCLUSION 
-There are some features are positively correlated with performance rating( Target variable) [Emp Environment Satisfaction,Emp Last Salary Hike Percent,Emp Work Life Balance]
+There are some features are positively correlated with performance rating( Target variable) 
+# [Emp Environment Satisfaction,Emp Last Salary Hike Percent,Emp Work Life Balance]
 
 # 4.Explotary Data Analysis
 Basic Check & Statistical Measures* Their is no constant column is present in Numerical as well as categoriacl data.
@@ -182,6 +187,8 @@ Jupyter
 
 Library Used:
 Pandas Numpy Matplotlib Seaborn pylab Scipy Sklearn Pickle
+
+# Task
 
 # Goal 1: Department Wise Performances
 PLOT USED
