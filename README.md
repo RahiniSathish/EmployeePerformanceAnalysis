@@ -1,7 +1,7 @@
+# Employee Performance Analysis
+
 ![Screenshot 2023-10-22 193606](https://github.com/RahiniSathish/EmployeePerformanceAnalysis/assets/141403412/0455ff85-5e71-4cbe-bca6-94a744e0ed9b)
 
-
-# Employee Performance Analysis
 
 This repository contains a data science project focused on analyzing and improving employee performance at INX Future Inc, a leading data analytics and automation solutions provider. The project aims to provide actionable insights into employee performance and recommendations to enhance it while maintaining a positive work environment.
 
